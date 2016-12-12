@@ -1,0 +1,16 @@
+body{
+	font-family: 'Ubuntu', sans-serif;
+	font-size: 17px;
+}
+
+.page-header{
+    height: 80px;
+    clear:both;
+    color: #FF2A00;
+    text-align: center;
+}
+
+.panel-heading{
+	background-color: #F28340;
+}
+
